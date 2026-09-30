@@ -1,0 +1,35 @@
+menu = {
+    101: {'name': 'Paneer Tikka', 'category': 'Starter', 'price': 180},
+    102: {'name': 'Aloo Parathe', 'category': 'Main Course', 'price': 120},
+    103: {'name': 'Steamed Momos', 'category': 'Starter', 'price': 80},
+    104: {'name': 'Coffee', 'category': 'Beverage', 'price': 120},
+    105: {'name': 'Pizza', 'category': 'Starter', 'price': 250},
+    106: {'name': 'Chai', 'category': 'Beverage', 'price': 20},
+    107: {'name': 'Blueberry Mojito', 'category': 'Beverage', 'price': 90},
+    108: {'name': 'Khoya Paneer Butter Masala', 'category': 'Main Course', 'price': 170},
+    109: {'name': 'Burger', 'category': 'Starter', 'price': 130},
+    110: {'name': 'Peri peri french fries', 'category': 'Starter', 'price': 80},
+    111: {'name': 'Manchurian', 'category': 'Starter', 'price': 90},
+    112: {'name': 'Chicken Biryani', 'category': 'Main Course', 'price': 220},
+    113: {'name': 'Rose lassi', 'category': 'Beverage', 'price': 50},
+    114: {'name': 'Buttermilk', 'category': 'Beverage', 'price': 30},
+    115: {'name': 'Schezwan Noodles', 'category': 'Starter', 'price': 90},
+    116: {'name': 'Maggi', 'category': 'Starter', 'price': 60},
+    117: {'name': 'Garlic Butter Naan', 'category': 'Main Course', 'price': 60},
+    118: {'name': 'Pani puri', 'category': 'Starter', 'price': 70},
+    119: {'name': 'Bhel Puri', 'category': 'Starter', 'price': 80},
+    120: {'name': 'Roti', 'category': 'Main Course', 'price': 20},
+    121: {'name': 'Paneer butter masala', 'category': 'Main Course', 'price': 170},
+    122: {'name': 'Shahi paneer', 'category': 'Main Course', 'price': 170},
+    123: {'name': 'Bhataka Bhungra', 'category': 'Starter', 'price': 180},
+    124: {'name': 'Lasuniya Palak', 'category': 'Main Course', 'price': 170},
+    125: {'name': 'Haldi ki sabji', 'category': 'Main Course', 'price': 200},
+    126: {'name': 'Cheese rolls', 'category': 'Starter', 'price': 80},
+    127: {'name': 'Cake', 'category': 'Dessert', 'price': 500},
+    128: {'name': 'Tiramisu', 'category': 'Dessert', 'price': 260},
+    129: {'name': 'Cassata Ice cream', 'category': 'Dessert', 'price': 200},
+    130: {'name': 'Rasmalai', 'category': 'Dessert', 'price': 100}}
+
+tables = {} 
+
+status = ["Placed", "Preparing", "Ready", "Served", "Completed"]
